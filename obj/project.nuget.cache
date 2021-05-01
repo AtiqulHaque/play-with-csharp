@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8eRohIDNUidZZjbspHG16KzC8yNxxV8pr70CEsoD6PXnjITV86hs4owPwLcuToVAhe0kyRAROF41YuntW0nMdQ==",
+  "success": true,
+  "projectFilePath": "/home/atiqul/Desktop/dot-net-core/problem-solving/problem-solving.csproj",
+  "expectedPackageFiles": [
+    "/home/atiqul/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+/home/atiqul/Desktop/dot-net-core/problem-solving/bin/Debug/netcoreapp3.0/problem-solving
+/home/atiqul/Desktop/dot-net-core/problem-solving/bin/Debug/netcoreapp3.0/problem-solving.deps.json
+/home/atiqul/Desktop/dot-net-core/problem-solving/bin/Debug/netcoreapp3.0/problem-solving.runtimeconfig.json
+/home/atiqul/Desktop/dot-net-core/problem-solving/bin/Debug/netcoreapp3.0/problem-solving.runtimeconfig.dev.json
+/home/atiqul/Desktop/dot-net-core/problem-solving/bin/Debug/netcoreapp3.0/problem-solving.dll
+/home/atiqul/Desktop/dot-net-core/problem-solving/bin/Debug/netcoreapp3.0/problem-solving.pdb
+/home/atiqul/Desktop/dot-net-core/problem-solving/obj/Debug/netcoreapp3.0/problem-solving.csprojAssemblyReference.cache
+/home/atiqul/Desktop/dot-net-core/problem-solving/obj/Debug/netcoreapp3.0/problem-solving.AssemblyInfoInputs.cache
+/home/atiqul/Desktop/dot-net-core/problem-solving/obj/Debug/netcoreapp3.0/problem-solving.AssemblyInfo.cs
+/home/atiqul/Desktop/dot-net-core/problem-solving/obj/Debug/netcoreapp3.0/problem-solving.dll
+/home/atiqul/Desktop/dot-net-core/problem-solving/obj/Debug/netcoreapp3.0/problem-solving.pdb
+/home/atiqul/Desktop/dot-net-core/problem-solving/obj/Debug/netcoreapp3.0/problem-solving.csproj.CoreCompileInputs.cache
+/home/atiqul/Desktop/dot-net-core/problem-solving/obj/Debug/netcoreapp3.0/problem-solving.genruntimeconfig.cache
